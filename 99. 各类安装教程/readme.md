@@ -1,0 +1,2 @@
+归档一下常用的安装文档，不然每次搭环境总是到处找博客😂😂
+01. [Linux下jdk安装](https://github.com/zephyrlai/my-architect-note/blob/master/99.%20%E5%90%84%E7%B1%BB%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/01.%20Linux%E4%B8%8Bjdk%E5%AE%89%E8%A3%85.md)
